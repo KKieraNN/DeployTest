@@ -1,4 +1,5 @@
 build
+envConfig.js
 node_modules
-*.log
 yarn.lock
+*.log
